@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="7b41d95b-207e-48f3-b2e3-4de1910eea6c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.14)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Hero With a Thousand Faces</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="ef049595-4537-463a-915c-9aee92f67570" playOrder="0">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="dummy_split_000.html#filepos1122532"/>
+    </navPoint>
+    <navPoint class="chapter" id="e0a413cb-5d1b-4719-a68f-5501da7d5604" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="dummy_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="659fead8-83eb-42c3-bb93-f3e1e1d17c9a" playOrder="2">
+      <navLabel>
+        <text>PREFACE</text>
+      </navLabel>
+      <content src="dummy_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="436a2608-2f81-4723-ab30-d2e92b36264b" playOrder="3">
+      <navLabel>
+        <text>PROLOGUE: THE MONOMYTH</text>
+      </navLabel>
+      <content src="dummy_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="364bd0da-59f9-4dd2-9ac4-6813f7342892" playOrder="4">
+      <navLabel>
+        <text>1. Myth and Dream</text>
+      </navLabel>
+      <content src="dummy_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="bdeb777b-cf12-4c4d-bf31-0043f94a944b" playOrder="5">
+      <navLabel>
+        <text>2. Tragedy and Comedy</text>
+      </navLabel>
+      <content src="dummy_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="93cfe25f-3dd4-43ad-a76f-9eacb11ab6c9" playOrder="6">
+      <navLabel>
+        <text>3. The Hero and the God</text>
+      </navLabel>
+      <content src="dummy_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5f9ccf94-cf48-4b9d-9bd7-86c1af45f077" playOrder="7">
+      <navLabel>
+        <text>4. The World Navel</text>
+      </navLabel>
+      <content src="dummy_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8815a700-8bc8-4075-b0cb-2c99c1324090" playOrder="8">
+      <navLabel>
+        <text>PART I: THE ADVENTURE OF THE HERO</text>
+      </navLabel>
+      <content src="dummy_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="bb210e6e-27ca-460d-bc89-153f44245d42" playOrder="9">
+      <navLabel>
+        <text>CHAPTER I: DEPARTURE</text>
+      </navLabel>
+      <content src="dummy_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a6ce1880-c019-4cb3-bafd-adda125d860c" playOrder="10">
+      <navLabel>
+        <text>1. The Call to Adventure</text>
+      </navLabel>
+      <content src="dummy_split_011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="426bb421-fbc4-444b-adfc-4106e85bd04d" playOrder="11">
+      <navLabel>
+        <text>2. Refusal of the Call</text>
+      </navLabel>
+      <content src="dummy_split_012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="2115b631-af58-437d-a758-cbd5dab81416" playOrder="12">
+      <navLabel>
+        <text>3. Supernatural Aid</text>
+      </navLabel>
+      <content src="dummy_split_013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0005d901-506a-4c60-80e6-66c7ebbff911" playOrder="13">
+      <navLabel>
+        <text>4. The Crossing of the First Threshold</text>
+      </navLabel>
+      <content src="dummy_split_014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c856afba-9b62-4532-9e27-8403e9132874" playOrder="14">
+      <navLabel>
+        <text>5. The Belly of the Whale</text>
+      </navLabel>
+      <content src="dummy_split_015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="abe8f8be-aeed-4ee1-b239-4b2b331dfd52" playOrder="15">
+      <navLabel>
+        <text>CHAPTER II: INITIATION</text>
+      </navLabel>
+      <content src="dummy_split_016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="bee95b3d-f356-4d8d-8fb2-28f78f754078" playOrder="16">
+      <navLabel>
+        <text>1. The Road of Trials</text>
+      </navLabel>
+      <content src="dummy_split_017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1e6e812e-6462-4291-b2f3-8bf82deaf131" playOrder="17">
+      <navLabel>
+        <text>2. The Meeting with the Goddess</text>
+      </navLabel>
+      <content src="dummy_split_018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1b578042-af2b-4b16-9c33-731a2d6a7ff7" playOrder="18">
+      <navLabel>
+        <text>3. Woman as the Temptress</text>
+      </navLabel>
+      <content src="dummy_split_019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="83adeb8a-d502-4cb6-a6e0-a471e51ef805" playOrder="19">
+      <navLabel>
+        <text>4. Atonement with the Father</text>
+      </navLabel>
+      <content src="dummy_split_020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ec2ef662-3c6c-4b46-bab8-1d1eca5e7086" playOrder="20">
+      <navLabel>
+        <text>5. Apotheosis</text>
+      </navLabel>
+      <content src="dummy_split_021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="026c8582-1744-416f-bc8f-e72338872e19" playOrder="21">
+      <navLabel>
+        <text>6. The Ultimate Boon</text>
+      </navLabel>
+      <content src="dummy_split_022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f1ebe57b-56a9-4723-b873-b215397ab508" playOrder="22">
+      <navLabel>
+        <text>CHAPTER III: RETURN</text>
+      </navLabel>
+      <content src="dummy_split_023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d48e9b4b-a524-46a1-a084-6d2e377b019b" playOrder="23">
+      <navLabel>
+        <text>1. Refusal of the Return</text>
+      </navLabel>
+      <content src="dummy_split_024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="23d1cca9-47d4-44a1-82cd-2ea4b3b5b5e2" playOrder="24">
+      <navLabel>
+        <text>2. The Magic Flight</text>
+      </navLabel>
+      <content src="dummy_split_025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="264f93dd-4ae9-45e8-9586-6ec5bccbef27" playOrder="25">
+      <navLabel>
+        <text>3. Rescue from Without</text>
+      </navLabel>
+      <content src="dummy_split_026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ea0937b3-7c81-4c1f-b187-505c0b900803" playOrder="26">
+      <navLabel>
+        <text>4. The Crossing of the Return Threshold</text>
+      </navLabel>
+      <content src="dummy_split_027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="fcc43624-ef23-4be2-a7c1-a4249a003aae" playOrder="27">
+      <navLabel>
+        <text>5. Master of the Two Worlds</text>
+      </navLabel>
+      <content src="dummy_split_028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="178c0b57-cc40-4cee-80bf-2cfb300cec63" playOrder="28">
+      <navLabel>
+        <text>6. Freedom to Live</text>
+      </navLabel>
+      <content src="dummy_split_029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7727af48-c6a6-4d92-91a8-eb8f082d2585" playOrder="29">
+      <navLabel>
+        <text>CHAPTER IV: THE KEYS</text>
+      </navLabel>
+      <content src="dummy_split_030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c84dfb45-e43d-4aeb-9d28-9c260e9f0421" playOrder="30">
+      <navLabel>
+        <text>PART II: THE COSMOGONIC CYCLE</text>
+      </navLabel>
+      <content src="dummy_split_031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="2595cd63-2fbc-4c05-b360-b0b027f1786a" playOrder="31">
+      <navLabel>
+        <text>CHAPTER I: EMANATIONS</text>
+      </navLabel>
+      <content src="dummy_split_032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8a28cbaf-85f5-4194-8401-90d9e5bea4fd" playOrder="32">
+      <navLabel>
+        <text>1. From Psychology to Metaphysics</text>
+      </navLabel>
+      <content src="dummy_split_033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="92ba30cc-d43f-4f72-b9d5-ed305b7695b5" playOrder="33">
+      <navLabel>
+        <text>2. The Universal Round</text>
+      </navLabel>
+      <content src="dummy_split_034.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="deaada08-d8d4-4e61-abfd-63e244ec59eb" playOrder="34">
+      <navLabel>
+        <text>3. Out of the Void—Space</text>
+      </navLabel>
+      <content src="dummy_split_035.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d542cb82-53ec-4665-a678-63bcc5817caf" playOrder="35">
+      <navLabel>
+        <text>4. Within Space—Life</text>
+      </navLabel>
+      <content src="dummy_split_036.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0bc7d79e-a78a-48eb-af76-3f40f0e1f35d" playOrder="36">
+      <navLabel>
+        <text>5. The Breaking of the One into the Manifold</text>
+      </navLabel>
+      <content src="dummy_split_037.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="63f546ac-6192-4a32-a2f6-7cd078d4e83c" playOrder="37">
+      <navLabel>
+        <text>6. Folk Stories of Creation</text>
+      </navLabel>
+      <content src="dummy_split_038.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ba17a0e1-f2e1-4bdc-bf69-d99c4e09db4a" playOrder="38">
+      <navLabel>
+        <text>CHAPTER II: THE VIRGIN BIRTH</text>
+      </navLabel>
+      <content src="dummy_split_039.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="106af252-0e1a-42cf-89e5-24bd0429c6a2" playOrder="39">
+      <navLabel>
+        <text>1. Mother Universe</text>
+      </navLabel>
+      <content src="dummy_split_040.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a77bfda1-3b72-404d-9c90-33de42a586af" playOrder="40">
+      <navLabel>
+        <text>2. Matrix of Destiny</text>
+      </navLabel>
+      <content src="dummy_split_041.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4ef30074-dd57-4921-94cf-b307afc6f211" playOrder="41">
+      <navLabel>
+        <text>3. Womb of Redemption</text>
+      </navLabel>
+      <content src="dummy_split_042.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="46faaea0-16f2-47e1-b1aa-739e5db28262" playOrder="42">
+      <navLabel>
+        <text>4. Folk Stories of Virgin Motherhood</text>
+      </navLabel>
+      <content src="dummy_split_043.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8dc371cb-6fbf-457b-8b52-02741ba01bec" playOrder="43">
+      <navLabel>
+        <text>CHAPTER III: TRANSFORMATIONS OF THE HERO</text>
+      </navLabel>
+      <content src="dummy_split_044.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f9ee1c20-2d83-4bae-b50a-34ba9d74184b" playOrder="44">
+      <navLabel>
+        <text>1. The Primordial Hero and the Human</text>
+      </navLabel>
+      <content src="dummy_split_045.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="841c152c-ab32-4f14-b05d-7a75b9da0005" playOrder="45">
+      <navLabel>
+        <text>2. Childhood of the Human Hero</text>
+      </navLabel>
+      <content src="dummy_split_046.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c56b9f42-cdfd-4d09-8b0b-8ffd8544c390" playOrder="46">
+      <navLabel>
+        <text>3. The Hero as Warrior</text>
+      </navLabel>
+      <content src="dummy_split_047.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="caf46e2a-c2d7-4d3e-b783-01b14e6f0615" playOrder="47">
+      <navLabel>
+        <text>4. The Hero as Lover</text>
+      </navLabel>
+      <content src="dummy_split_048.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0d632d8b-77c4-470b-b613-7c61d4cd1b9a" playOrder="48">
+      <navLabel>
+        <text>5. The Hero as Emperor and as Tyrant</text>
+      </navLabel>
+      <content src="dummy_split_049.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="dbe7defc-90ac-4cc4-add8-d0b25db07789" playOrder="49">
+      <navLabel>
+        <text>6. The Hero as World Redeemer</text>
+      </navLabel>
+      <content src="dummy_split_050.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1e51c356-14b9-409b-bfcd-b143fcd5d6b5" playOrder="50">
+      <navLabel>
+        <text>7. The Hero as Saint</text>
+      </navLabel>
+      <content src="dummy_split_051.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="255e09a2-3a3b-43ba-b702-72d78d10ef51" playOrder="51">
+      <navLabel>
+        <text>8. Departure of the Hero</text>
+      </navLabel>
+      <content src="dummy_split_052.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9fd1184c-f525-4bd1-8410-2ae6e70ebff1" playOrder="52">
+      <navLabel>
+        <text>CHAPTER IV: DISSOLUTIONS</text>
+      </navLabel>
+      <content src="dummy_split_053.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1968d871-ff46-44a2-a426-b62b5707be5e" playOrder="53">
+      <navLabel>
+        <text>1. End of the Microcosm</text>
+      </navLabel>
+      <content src="dummy_split_054.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="02dd6779-006c-4d05-a153-71b431314ba9" playOrder="54">
+      <navLabel>
+        <text>2. End of the Macrocosm</text>
+      </navLabel>
+      <content src="dummy_split_055.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="380a0e60-4f0c-4b34-8608-2c6b91d78a19" playOrder="55">
+      <navLabel>
+        <text>EPILOGUE: MYTH AND SOCIETY</text>
+      </navLabel>
+      <content src="dummy_split_056.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="12f62c67-6e9a-4244-a409-4c6d9e1704a1" playOrder="56">
+      <navLabel>
+        <text>1. The Shapeshifter</text>
+      </navLabel>
+      <content src="dummy_split_057.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9b2a3be3-dd98-42ed-8034-e983b8526d57" playOrder="57">
+      <navLabel>
+        <text>2. The Function of Myth, Cult, and Meditation</text>
+      </navLabel>
+      <content src="dummy_split_058.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="92664972-1106-4ad1-91de-25f29c7266f8" playOrder="58">
+      <navLabel>
+        <text>3. The Hero Today</text>
+      </navLabel>
+      <content src="dummy_split_059.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="22aab6d2-739b-4af7-b76a-42dbb806be10" playOrder="59">
+      <navLabel>
+        <text>INDEX</text>
+      </navLabel>
+      <content src="dummy_split_060.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="32ff520d-fa52-4a3e-bcbf-6023ed88239f" playOrder="60">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="dummy_split_086.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="09b58f80-de88-46a7-9eb7-ebe4b0729904" playOrder="61">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="dummy_split_088.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="119b1335-d56c-46d5-9e03-3df9ac785bbd" playOrder="62">
+      <navLabel>
+        <text>About the Publisher</text>
+      </navLabel>
+      <content src="dummy_split_090.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="2901b4b1-4c49-4874-a0bc-d2ccc892c6eb" playOrder="63">
+      <navLabel>
+        <text>NOTE</text>
+      </navLabel>
+      <content src="dummy_split_091.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
